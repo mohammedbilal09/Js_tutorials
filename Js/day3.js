@@ -35,7 +35,7 @@ const _friend = true;
  
 console.log(_name);
 // _name = "Mukul Kumar Singh";  // TypeError: Assignment to constant variable.
-console.log(_name);
+console.log(_name);  
 
 /*
     The most common used programming case types used:-
