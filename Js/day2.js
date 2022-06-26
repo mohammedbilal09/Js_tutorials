@@ -1,6 +1,6 @@
 console.log("Hello I am Mohammed Bilal");
 console.log(19);
-// operations
+// operations 
 console.log(15*19); 
 console.log(15+19); 
 console.log(15-12); 

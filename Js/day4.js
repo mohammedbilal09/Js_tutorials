@@ -26,7 +26,7 @@ console.log("The data type is:- ", typeof(stringName));
 let number = 12354; // b. Number
 console.log("Number is:- ", number);
 console.log("The data type is:- ", typeof(number));
-
+ 
 let refer = false; // c. Boolean 
 console.log("The boolean is:- ", refer);
 console.log("The data type is:- ", typeof(refer));

@@ -32,7 +32,7 @@ const _number = 135168479;
 // const _location; // SyntaxError: Missing initializer in const declaration
 const _task = null;
 const _friend = true;
-
+ 
 console.log(_name);
 // _name = "Mukul Kumar Singh";  // TypeError: Assignment to constant variable.
 console.log(_name);
