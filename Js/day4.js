@@ -30,7 +30,7 @@ console.log("The data type is:- ", typeof(number));
 let refer = false; // c. Boolean 
 console.log("The boolean is:- ", refer);
 console.log("The data type is:- ", typeof(refer));
-
+  
 let channel; // d. Undefined
 console.log("The data is :- ", channel);
 console.log("The data type is:- ", typeof(channel));
