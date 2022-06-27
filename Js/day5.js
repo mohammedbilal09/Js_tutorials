@@ -45,6 +45,8 @@ let num = parseInt("3545.654"); // float to int
 console.log(num);
 num = parseFloat("644.9849"); // displaying float number
 console.log(num);
+console.log(num, typeof(num));
+
 
 console.log(num.toFixed(2), typeof(num)); // printing number upto fixed decimals
 
